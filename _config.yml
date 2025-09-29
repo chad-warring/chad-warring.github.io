@@ -326,4 +326,4 @@ defaults:
       share: true
       related: true
 
-logo: "/assets/images/bio-photo.jpg"
+# logo: "/assets/images/bio-photo.jpg"

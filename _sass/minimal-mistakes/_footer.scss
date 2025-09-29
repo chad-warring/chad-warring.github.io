@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .page__footer {
-  display: none;
   @include clearfix;
   float: inline-start;
   margin-inline: 0;
@@ -46,13 +45,11 @@
 }
 
 .page__footer-copyright {
-  display: none;
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
 .page__footer-follow {
-  display: none;
   ul {
     margin: 0;
     padding: 0;
