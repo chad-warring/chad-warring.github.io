@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 layout: archive
 permalink: /about/
 classes: wide
@@ -12,7 +12,7 @@ author_profile: true
 ## About Me
 
 Hi, I’m **Chad Warring** 👋  
-I’m currently pursuing my MSc in Data Science at one of Europe’s leading universities.  
+I’m currently pursuing my MSc in Data Science at one of Europe’s universities.  
 
 Outside of academics, I enjoy:  
 - 📚 Reading  
