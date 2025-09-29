@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "blog"
-    url: /
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
